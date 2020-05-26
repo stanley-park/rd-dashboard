@@ -1,7 +1,8 @@
 # rd-dashboard
 Coding challenge for respondent
-Build instructions:
-Download the zip and extract
+
+# Build instructions:
+- Download the zip and extract
 - Install node modules in /respondent/client and /respondent/server (cd client `npm install`, cd .., cd server`npm install`)
 - cd. into /respondent/server/data
 - Start the mongodb daemon in /respondent/server/data by running `mongod --dbpath .` (can replace . with path to server/data)
