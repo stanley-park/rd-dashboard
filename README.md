@@ -1,5 +1,5 @@
 # rd-dashboard
-Coding challenge for respondent
+spending dashboard
 
 # Build instructions:
 - Download the zip and extract
